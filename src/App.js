@@ -4,7 +4,7 @@ import Auth from "./Components/Auth";
 import Writing from "./Components/Writing";
 
 function App() {
-  // this will ensure whethere the login is successfull or not
+  // this will ensure whethere the login is successfull or not sahi baat hai
   const [isLoggedIn, setIsLoggedIn] = useState(false);
   return (
     <>
